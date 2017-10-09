@@ -54,7 +54,7 @@ You can specify a new owner authorization value or specify a file that contains 
 
 An owner authorization file is not a simply a password.
 It is generated for a specific system.
-For more information on TPM, see the [Trusted Platform Module Technology Overview](http://technet.microsoft.com/en-us/library/jj131725.aspx) in the Technet library.
+For more information on TPM, see the [Trusted Platform Module Technology Overview](https://docs.microsoft.com/en-us/windows/device-security/tpm/trusted-platform-module-top-node) in the Technet library.
 
 ## EXAMPLES
 
