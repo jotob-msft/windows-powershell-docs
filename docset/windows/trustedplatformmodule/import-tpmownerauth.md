@@ -37,7 +37,7 @@ Import-TpmOwnerAuth [-OwnerAuthorization] <String> [<CommonParameters>]
 ## DESCRIPTION
 The **Import-TpmOwnerAuth** cmdlet imports a valid Trusted Platform Module (TPM) owner authorization value to the registry.
 
-For more information on TPM, see the [Trusted Platform Module Technology Overview](http://technet.microsoft.com/en-us/library/jj131725.aspx) in the Technet library.
+For more information on TPM, see the [Trusted Platform Module Technology Overview](https://docs.microsoft.com/en-us/windows/device-security/tpm/trusted-platform-module-top-node) in the Technet library.
 
 ## EXAMPLES
 
