@@ -33,7 +33,7 @@ The **Enable-TpmAutoProvisioning** cmdlet enables Trusted Platform Module (TPM) 
 Provisioning is the process of preparing a TPM to be used.
 You can use the Disable-TpmAutoProvisioning cmdlet to prevent auto-provisioning, either permanently or for the next restart.
 
-For more information on TPM, see the [Trusted Platform Module Technology Overview](http://technet.microsoft.com/en-us/library/jj131725.aspx) in the Technet library.
+For more information on TPM, see the [Trusted Platform Module Technology Overview](https://docs.microsoft.com/en-us/windows/device-security/tpm/trusted-platform-module-top-node) in the Technet library.
 
 ## EXAMPLES
 
