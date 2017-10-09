@@ -33,7 +33,7 @@ The **Initialize-Tpm** cmdlet performs part of the provisioning process for a Tr
 Provisioning is the process of preparing a TPM to be used.
 You may need to perform other steps to fully provision a TPM.
 
-For more information on TPM, see the [Trusted Platform Module Technology Overview](http://technet.microsoft.com/en-us/library/jj131725.aspx) in the Technet library.
+For more information on TPM, see the [Trusted Platform Module Technology Overview](https://docs.microsoft.com/en-us/windows/device-security/tpm/trusted-platform-module-top-node) in the Technet library.
 
 ## EXAMPLES
 
