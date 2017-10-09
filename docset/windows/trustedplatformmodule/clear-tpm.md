@@ -41,7 +41,7 @@ To reset a TPM, you must provide a valid owner authorization value.
 You can enter an owner authorization value or specify a file that contains the value.
 If you do not provide a value, the cmdlet attempts to use a value stored in the registry.
 
-For more information on TPM, see the [Trusted Platform Module Technology Overview](http://technet.microsoft.com/en-us/library/jj131725.aspx) in the TechNet library.
+For more information on TPM, see the [Trusted Platform Module Technology Overview](https://docs.microsoft.com/en-us/windows/device-security/tpm/trusted-platform-module-top-node) in the TechNet library.
 
 ## EXAMPLES
 
