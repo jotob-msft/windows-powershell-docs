@@ -32,7 +32,7 @@ Get-Tpm [<CommonParameters>]
 The **Get-Tpm** cmdlet gets a **TpmObject**.
 This object contains information about the Trusted Platform Module (TPM) on the current computer.
 
-For more information on TPM, see the [Trusted Platform Module Technology Overview](http://technet.microsoft.com/en-us/library/jj131725.aspx) in the Technet library.
+For more information on TPM, see the [Trusted Platform Module Technology Overview](https://docs.microsoft.com/en-us/windows/device-security/tpm/trusted-platform-module-top-node ) in the Technet library.
 
 ## EXAMPLES
 
