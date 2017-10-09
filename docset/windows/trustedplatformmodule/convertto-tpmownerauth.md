@@ -32,7 +32,7 @@ ConvertTo-TpmOwnerAuth [-PassPhrase] <String> [<CommonParameters>]
 The **ConvertTo-TpmOwnerAuth** cmdlet creates a Trusted Platform Module (TPM) owner authorization value based on a pass phrase string.
 A computer requires an owner authorization value to manage a TPM.
 
-For more information on TPM, see the [Trusted Platform Module Technology Overview](http://technet.microsoft.com/en-us/library/jj131725.aspx) in the Technet library.
+For more information on TPM, see the [Trusted Platform Module Technology Overview](https://docs.microsoft.com/en-us/windows/device-security/tpm/trusted-platform-module-top-node) in the Technet library.
 
 ## EXAMPLES
 
